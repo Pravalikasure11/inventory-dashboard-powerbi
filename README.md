@@ -112,9 +112,14 @@ Inventory-Dashboard/
 
 - Improve restocking decisions
 
+
+
 📷 **Dashboard Preview**
 
-![Inventory Dashboard](screenshots/Inventory Dashboard Final View.png)
+<img width="2560" height="1600" alt="Inventory Dashboard Final View" src="https://github.com/user-attachments/assets/4d6047f7-3d5e-4695-ab1b-6501ed934d4c" />
+
+
+
 
 
 📌 **Author**
